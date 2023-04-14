@@ -1,0 +1,5 @@
+finance
+education
+game
+entertainment
+gamble
