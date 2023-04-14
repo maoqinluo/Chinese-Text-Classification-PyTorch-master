@@ -208,3 +208,4 @@ python predict.py
 - https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
 
 # Chinese-Text-Classification-PyTorch-master
+# Chinese-Text-Classification-PyTorch-master
